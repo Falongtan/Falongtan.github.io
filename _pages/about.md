@@ -16,22 +16,17 @@ Ph.D in Statistics, Hong Kong Baptist University, 2017   <br> <br>
 M.S. in Mathematics, Wuhan University, 2007  <br> <br>
 B.S. in Mathematics, Wuhan University, 2005  <br> <br>
 
-Work experience
+
+Research Interests
 ======
-Spring 2024: Academic Pages Collaborator  <br>
-GitHub University  <br>
-Duties includes: Updates and improvements to template  <br>
-Supervisor: The Users  <br>
-Fall 2015: Research Assistant <br>  
-GitHub University  <br>
-Duties included: Merging pull requests  <br>
-Supervisor: Professor Hub  <br>
-Summer 2015: Research Assistant <br>  
-GitHub University  <br>
-Duties included: Tagging issues <br>  
-Supervisor: Professor Git  <br>
+Mathematical and Statistical Foundations of Artificial Intelligence; High dimensional hypothesis tests; High dimensional empirical processes; Sufficient dimension reduction; Causal inference; Precision medicine. 
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Work experience 
+======
+01/2024-            Professor, Hunan University, Changsha, China  <br>
+04/2024-06/2024     visiting research scholar, Hong Kong Polytechnic University, Hong Kong  <br>
+01/2020-12/2023     Associate Professor, Hunan University, Changsha, China  <br>
+01/2019-01/2020     visiting research scholar, Hong Kong Baptist University, Hong Kong  <br>
+12/2017-12/2019     Assistant Professor, Hunan University, Changsha, China  <br>
+06/2007-08/2014     Assistant, Huangshan University, Huangshan, China  <br>
