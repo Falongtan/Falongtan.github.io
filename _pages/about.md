@@ -7,29 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Statistics at Hunan University. 
+I am a Professor in the Department of Statistics at Hunan University. <br>
 
 
 Education
 ======
-Ph.D in Statistics, Hong Kong Biptist University, 2017
-M.S. in Jekyll, GitHub University, 2014
-B.S. in GitHub, GitHub University, 2012
+Ph.D in Statistics, Hong Kong Biptist University, 2017   <br>
+M.S. in Jekyll, GitHub University, 2014  <br>
+B.S. in GitHub, GitHub University, 2012  <br>
 
 Work experience
 ======
-Spring 2024: Academic Pages Collaborator
-GitHub University
-Duties includes: Updates and improvements to template
-Supervisor: The Users
-Fall 2015: Research Assistant
-GitHub University
-Duties included: Merging pull requests
-Supervisor: Professor Hub
-Summer 2015: Research Assistant
-GitHub University
-Duties included: Tagging issues
-Supervisor: Professor Git
+Spring 2024: Academic Pages Collaborator  <br>
+GitHub University  <br>
+Duties includes: Updates and improvements to template  <br>
+Supervisor: The Users  <br>
+Fall 2015: Research Assistant <br>  
+GitHub University  <br>
+Duties included: Merging pull requests  <br>
+Supervisor: Professor Hub  <br>
+Summer 2015: Research Assistant <br>  
+GitHub University  <br>
+Duties included: Tagging issues <br>  
+Supervisor: Professor Git  <br>
 
 
 For more info
