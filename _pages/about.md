@@ -13,8 +13,8 @@ I am a Professor in the Department of Statistics at Hunan University. <br>
 Education
 ======
 Ph.D in Statistics, Hong Kong Baptist University, 2017   <br> <br>
-M.S. in Jekyll, GitHub University, 2014  <br> <br>
-B.S. in GitHub, GitHub University, 2012  <br> <br>
+M.S. in Mathematics, Wuhan University, 2007  <br> <br>
+B.S. in Mathematics, Wuhan University, 2005  <br> <br>
 
 Work experience
 ======
