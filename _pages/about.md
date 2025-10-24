@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Statistics at Hunan University. <br>
+I am a Professor in the Department of Statistics and Data Science at Hunan University. <br>
 
 
 Education
